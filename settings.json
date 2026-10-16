@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "exr-craft.aternos.me",
+    "port": 64923,
     "version": "",
     "try-creative": false
   },
